@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.caja1{
+   background-color: #d2313d;
+   width: 250px;
+   height: 50px;
+}
+
+.caja2{
+    background-color: #e6635d;
+    height: 50px;
+}
+
+.caja3{
+    background-color: #f9bf76;
+    height: 50px;
+}
+
+.caja4{
+    background-color: #90b3c7;
+    height: 50px;
+}
+
+.caja5{
+    background-color: #615477;
+    height: 50px;
+}
+
+.caja6{
+    background-color: #121523;
+    height: 50px;
+}
+
+.caja7{
+    background-color: #351932;
+    height: 50px;
+}
+
+.caja8{
+    background-color: #591b3e;
+    height: 50px;
+}
+
+.caja9{
+    background-color: #7b1d4a;
+    height: 300px;
+
+}
+
+.caja10{
+    background-color: #9e2155;
+    height: 300px;
+}
+
+.caja11{
+    background-color: #77c3a7;
+    height: 300px;
+}
+
+.caja12{
+    background-color: #dfe1b6;
+    height: 300px;
+}
+
+.caja13{
+    background-color: #e1b866;
+    height: 300px;
+}
+
+.caja14{
+    background-color: #be5531;
+    height: 300px;
+}
+
+.caja15{
+    background-color: #383b44;
+    height: 300px;
+}
+
+.caja16{
+    background-color: #a8146a;
+    height: 300px;
+}
+
+.caja17{
+    background-color: #e61b4d;
+    height: 300px;
+}
+
+.caja18{
+    background-color: #ed6a45;
+    height: 300px;
+}
+
+.caja19{
+    background-color: #f7d86b;
+    height: 300px;
+}
+
+.caja20{
+    background-color: #339094;
+    height: 300px;
+}
+
+.caja21{
+    background-color: #d2313d;
+    height: 300px;
+}
+
+.caja22{
+    background-color: #e6635d;
+    height: 300px;
+}
+
+.caja23{
+    background-color: #f9bf76;
+    height: 50px;
+}
+
+.caja24{
+    background-color: #90b3c7;
+    height: 50px;
+}
+
+.caja25{
+    background-color: #615477;
+    height: 50px;
+}
+
+.caja26{
+    background-color: #121523;
+    height: 50px;
+}
+
+.caja27{
+    background-color: #351932;
+    height: 50px;
+}
+
+.caja28{
+    background-color: #591b3e;
+    height: 50px;
+}
+
+.caja29{
+    background-color: #7b1d4a;
+    height: 50px;
+}
+
+.caja30{
+    background-color: #9e2155;
+    height: 50px;
+}
+
+.caja31{
+    background-color: #77c3a7;
+    height: 50px;
+}
+
+.caja32{
+    background-color: #dfe1b6;
+    height: 50px;
+}
+
+.caja33{
+    background-color: #e1b866;
+    height: 300px;
+}
