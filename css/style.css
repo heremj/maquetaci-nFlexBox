@@ -173,3 +173,14 @@ body{
     background-color: #e1b866;
     height: 300px;
 }
+
+@media (max-width:768px){
+    .caja33{
+        display: none;
+    }
+}
+@media (max-width:576px){
+    .ocultar{
+        display: none;
+    }
+}
